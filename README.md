@@ -20,3 +20,5 @@ To run this application locally, follow these steps:
 ```bash
 git clone https://github.com/dulmini1119/todo-list.git
 
+2. 
+
